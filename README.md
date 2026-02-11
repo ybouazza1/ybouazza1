@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! I'm Yassine BOUAZZA 👋
 
-<!--
-**ybouazza1/ybouazza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a First-year Engineering Student at **EILCO (Calais)**, specializing in Software Engineering. I previously obtained a DUT in Software Engineering (University Diploma of Technology) in 2025.
 
-Here are some ideas to get you started:
+Currently preparing for a **Technical Apprenticeship** (Alternance).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Technical Toolbox:**
+* **Backend:** Java 17+, Spring Boot, SOLID Principles;
+* **Frontend:** React (Open to learning Angular), JavaScript/TypeScript;
+* **Systems:** Linux/Unix, Shell Scripting, C (Memory management);
+* **Electronics:** Arduino, Analog/Digital conversion.
+
+**What I'm working on:**
+* 🔭 Deepening my knowledge of **Object-Oriented Architecture** and **Design Patterns**;
+* 🌱 Exploring scalable systems with Spring Boot;
+
+[Link to my LinkedIn] https://www.linkedin.com/in/yassine-bouazza-633893322/
