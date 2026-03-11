@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Salut,+je+suis+Yassine+BOUAZZA+!+👋;Élève+Ingénieur+@+EILCO;Développeur+Fullstack+(Java+%2F+React);Passionné+par+l'architecture+logicielle" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Salut,+je+suis+Yassine+BOUAZZA+!+👋;Élève+Ingénieur+@+EILCO;Développeur+Fullstack;Passionné+par+l'architecture+logicielle" alt="Typing SVG" />
 
 <br><br>
 
